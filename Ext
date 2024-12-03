@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "author": "Nahona",
-    "description": "Nahona"
+    "author": "Dralock",
+    "description": "Dralock"
   },
   "data": [
     {
       "name": "Top Truyện",
-      "author": "Nahona",
+      "author": "Dralock",
       "path": "https://raw.github.com/Dragon/ext/toptruyen.zip",
       "version": 8,
       "source": "https://www.toptruyento.pro/",
