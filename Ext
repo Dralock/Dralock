@@ -4,7 +4,7 @@
     "mô tả": "Nahona"
   },
   "dữ liệu": [
-    {{
+    {
       "tên": "Truyện hàng đầu",
       "tác giả": "Nahona",
       "đường dẫn": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/toptruyenx.zip",
@@ -15,3 +15,5 @@
       "loại": "truyện tranh",
       "ngôn ngữ": "vi_VN"
     }
+ ]
+}
