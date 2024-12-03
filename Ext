@@ -1,19 +1,19 @@
 {
-  "siêu dữ liệu": {
-    "tác giả": "Nahona",
-    "mô tả": "Nahona"
+  "metadata": {
+    "author": "Nahona",
+    "description": "Nahona"
   },
-  "dữ liệu": [
+  "data": [
     {
-      "tên": "Truyện hàng đầu",
-      "tác giả": "Nahona",
-      "đường dẫn": "https://raw.github.com/SoulGodEve9x9/Vbook-ext/Nahona/toptruyenx.zip",
-      "phiên bản": 8,
-      "nguồn": "https://www.toptruyento.pro/",
-      "biểu tượng": "https://www.toptruyento.pro/images/logo/logonew1.png",
+      "name": "Top Truyện",
+      "author": "Nahona",
+      "path": "https://raw.github.com/Dragon/ext/toptruyen.zip",
+      "version": 8,
+      "source": "https://www.toptruyento.pro/",
+      "icon": "https://www.toptruyento.pro/images/logo/logonew1.png",
       "description": "Đọc truyện trên trang Top Truyện",
-      "loại": "truyện tranh",
-      "ngôn ngữ": "vi_VN"
+      "type": "comic",
+      "locale": "vi_VN"
     }
- ]
+]
 }
